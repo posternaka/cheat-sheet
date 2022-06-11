@@ -2,7 +2,7 @@
   "name": "react-cheat-sheet",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://posternaka.github.io/react-cheat-sheet/",
+  "homepage": "https://posternaka.github.io/home",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
